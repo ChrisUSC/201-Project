@@ -1,0 +1,2 @@
+Everything works on a 15 inch MacbookPro, other screen resolutions may not work correctly or throw an exception at runtime.
+To run, unzip landit.zip, then in the unziped folder, find the landit.jar file, move it to src folder and execute it.
